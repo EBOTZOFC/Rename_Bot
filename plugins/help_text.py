@@ -102,12 +102,12 @@ async def start_me(bot, update):
                         InlineKeyboardButton("Help", callback_data = "ghelp")
                 ],
                 [
-                    InlineKeyboardButton('📺Support Channel📺', url='https://t.me/Dulquer_Salmaan_lovers'),
-                    InlineKeyboardButton('🖋️Feedback🖋️', url='https://t.me/FK_MOVIES_ADMIN')
+                    InlineKeyboardButton('📺Support Channel📺', url='https://t.me/E_BOTZ'),
+                    InlineKeyboardButton('🖋️Feedback🖋️', url='https://t.me/mnzks')
                 ],
                 [
-                    InlineKeyboardButton('💾Create your own💾', url='https://youtu.be/J3vzr20_ix8'),
-                    InlineKeyboardButton('👀Any doubt👀', url='https://youtu.be/DFznXW0VL8k')
+                    InlineKeyboardButton('💾Create your own💾', url='https://t.me/punisherofc'),
+                    InlineKeyboardButton('👀Any doubt👀', url='https://t.me/punisherofc')
                 ]
             ]
         ),
